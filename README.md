@@ -1,4 +1,6 @@
 # MoodleAnonymizer
+***Created by Dulith Polpitiya***
+
 This program, ``anonymizer.py``, receives Moodle log files as an input and anonymizes them to respect the privacy of the students and instructors.
 
 ## How to run anonymizer.py
